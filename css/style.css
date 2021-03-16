@@ -3470,7 +3470,7 @@ section {
 
   /* INNER PAGES START HERE */
   .ulockd-inner-home {
-    background-image: url(../images/background/inner-pagebg.jpg);
+    background-image: url(/images/background/inner-pagebg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
